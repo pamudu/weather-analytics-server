@@ -9,7 +9,7 @@ A Spring Boot-based RESTful API for fetching and analyzing weather data. Integra
 - **AOP Integration**: Logging, caching, and rate limiting using Spring AOP.
 - **Error Handling**: Graceful handling of errors (e.g., city not found, API unavailable).
 - **Testing**: Comprehensive unit and integration tests.
-- **Caching.
-- **Swagger API Documentation.
-- **Scheduling - @Schedule with cron jobs.
-- **Spring Security.
+- **Caching**
+- **Swagger API Documentation**
+- **Scheduling - @Schedule with cron jobs**
+- **Spring Security**
